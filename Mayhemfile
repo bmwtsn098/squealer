@@ -4,6 +4,7 @@ project: squealer
 # Target name (should be unique within the project)
 target: main
 
+tests: null
 # List of commands used to test the target
 cmds:
 
